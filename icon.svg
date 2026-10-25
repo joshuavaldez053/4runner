@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <pattern id="h" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
+      <rect width="14" height="28" fill="#ff5f1f"/>
+    </pattern>
+  </defs>
+  <rect width="512" height="512" fill="#141414"/>
+  <rect x="0" y="0" width="512" height="512" fill="none" stroke="#2c2e30" stroke-width="8"/>
+  <path d="M116 330 A140 140 0 1 1 396 330" fill="none" stroke="#3a3d40" stroke-width="22" stroke-linecap="round"/>
+  <path d="M116 330 A140 140 0 0 1 256 190" fill="none" stroke="#ff5f1f" stroke-width="22" stroke-linecap="round"/>
+  <path d="M256 330 L330 236" stroke="#ececea" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="256" cy="330" r="20" fill="#ececea"/>
+  <rect x="96" y="392" width="320" height="34" rx="6" fill="url(#h)"/>
+</svg>
